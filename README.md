@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 Computer Engineering senior @ LSU  
-Python,C#, ML, Data & Systems  
-Building full-stack, automation, and embedded projects
+Python,C#, ML, Data & Systems, Network Engineering   
+Building full-stack, Automation, and embedded Projects
 
 Interests:
-- Data Engineering & Machine Learning
-- Full-stack & cloud-based systems
-- Automation, DevOps, and embedded software
+- Data Engineering, Machine Learning, and Network Engineering
+- Full-stack & Cloud-Based Systems
+- Automation, DevOps, and Embedded Software
 
 Featured Projects:
 - Project File Manager (Next.js + Supabase)
