@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**jfuller0124/jfuller0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering senior @ LSU  
+Python,C#, ML, Data & Systems  
+Building full-stack, automation, and embedded projects
 
-Here are some ideas to get you started:
+Interests:
+- Data Engineering & Machine Learning
+- Full-stack & cloud-based systems
+- Automation, DevOps, and embedded software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects:
+- Project File Manager (Next.js + Supabase)
+- Sentiment Analysis with LSTM/RNN
+- Embedded sensor data visualization (Capstone)
+
+Reach me:
+- GitHub: github.com/jfuller0124
+- LinkedIn: www.linkedin.com/in/joseph-fuller0203
