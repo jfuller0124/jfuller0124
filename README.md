@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Computer Engineering senior @ LSU  
-Python,C#, ML, Data & Systems, Network Engineering   
+Python, Java, C#, ML, Data & Systems, Network Engineering   
 Building full-stack, Automation, and embedded Projects
 
 Interests:
