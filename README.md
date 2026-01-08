@@ -10,6 +10,7 @@ Interests:
 - Automation, DevOps, and Embedded Software
 
 Featured Projects:
+- Resume keyword scanner (Chrome Extension)
 - Project File Manager (Next.js + Supabase)
 - Sentiment Analysis with LSTM/RNN
 - Embedded sensor data visualization (Capstone)
