@@ -10,6 +10,7 @@ Interests:
 - Automation, DevOps, and Embedded Software
 
 Featured Projects:
+-Eagles offense analysis
 - Resume Keyword Match (SQLite)
 - Resume keyword scanner (Chrome Extension)
 - Project File Manager (Next.js + Supabase)
